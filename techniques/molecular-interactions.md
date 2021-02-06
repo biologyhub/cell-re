@@ -12,7 +12,7 @@
 - Fuse BD to X and AD to Y
 - If X and Y interact, then BD and AD will join and become activated, turning on a reporter gene for the researcher to readout
 
-![](yeast-2-hybrid.png)
+![](./images/yeast-2-hybrid.png)
 - The yeast two hybrid (Y2H) concept and a typical readout.
     1. The BD domain fused to the bait protein (X) and the AD domain fused to prey protein (Y) are expressed in yeast cells. 
     2. If proteins X and Y interact, BD binds DNA and AD activates RNA polymerase.
@@ -31,7 +31,7 @@
 - Needs a clone library!
 
 ## 2. Affinity purification mass spectrometry (AP-MS) (high-throughput)
-![](ap-ms.png)
+![](./images/ap-ms.png)
 - Affinity purification and mass spectometry (AP-MS).
     1. The bait protein (yellow) is immobilised on a matrix.
     2. A protein mixture is passed through and only the interacting partners (prey) are retained.
